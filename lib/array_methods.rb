@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  #using 
+  #using Retrieve Items from Array in Array Basics
   array[value_to_find]
 end
 
